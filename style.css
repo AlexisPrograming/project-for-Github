@@ -1,12 +1,15 @@
 #p1{
-    color: rgb(222, 167, 95);
-    text-align: center;
-    text-shadow: 3px 4px blue;
-    font-size: 4rem;
-    font-family: fantasy;
-    box-shadow: inset 1px 10px 20px rgba(255, 231, 19, 0.575);
+    color: blue;
+    background-color: blueviolet;
+    line-height: 2cm;
+    
 }
-
+#p1{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 5rem;
+    text-shadow: 4px 3px darkmagenta;
+}
 /*primera parte*/
 
 dody{
