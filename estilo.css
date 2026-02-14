@@ -1,0 +1,97 @@
+body{
+    background: linear-gradient(to right, #19a889, #0b5658);
+    
+}
+#head{
+    color: rgb(222, 167, 95);
+    text-align: center;
+    text-shadow: 3px 4px blue;
+    font-size: 4rem;
+    font-family: fantasy;
+    box-shadow: inset 1px 10px 20px rgba(255, 231, 19, 0.575);
+}
+#estudios{
+    color: rgb(255, 0, 0);
+    font-family: fantasy;
+    font-size: 2.2rem;
+    list-style: square inside;
+    text-align: center;
+    box-shadow:  5px 5px 20px rgba(66, 240, 167, 0.5);
+}
+h2.Topics{
+    color: rgb(236, 176, 46);
+    font-family: fantasy;
+    text-align: center;
+    font-size: 3rem;
+    text-shadow: 2px 4px black;
+    box-shadow: inset 10px 10px 10px rgba(25, 255, 224, 0.5);
+}
+p.C1{
+    color: rgb(115, 240, 12);
+    font-size:xx-large;
+    font-family:inherit;
+    text-align:center;
+    
+}
+#contacto{
+    color: rgb(255, 0, 0);
+    font-family: fantasy;
+    font-size: 2.2rem;
+    list-style: square inside;
+    text-align: center;
+box-shadow:  5px 5px 20px rgba(66, 240, 167, 0.5);
+}
+.div.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
