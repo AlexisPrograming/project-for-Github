@@ -1,8 +1,18 @@
 #p1{
     color: blue;
     background-color: blueviolet;
-}
-#p1{
+    line-height: 2cm;
     size: 30cm ;
     height: auto;
+}
+#p1{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 5rem;
+    text-shadow: 4px 3px darkmagenta;
+}
+/*primera parte*/
+
+dody{
+    background-color: rgb(59, 228, 17);
 }
